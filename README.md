@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kushhoficial
+- 👀 I’m interested in tecnologi
+- 🌱 I’m currently learning all about technology
+- 💞️ I try to collaborate with my learning
