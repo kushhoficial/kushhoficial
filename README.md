@@ -73,7 +73,6 @@ Prefiro uma primeira versão que funcione e possa ser melhorada com feedback. Bu
 ### 04 / EXPLORE E PARTICIPE
 
 - **[Repositórios](https://github.com/kushhoficial?tab=repositories)** — acompanhe os projetos disponíveis no perfil.
-- **[Wallpaper](https://github.com/kushhoficial/Wallpaper)** — minha coleção pública de links de wallpapers.
 - **[LinkedIn](https://www.linkedin.com/in/bruno-nascimento-0a67ba199/)** — contato profissional e conversas sobre tecnologia.
 - **[Contribuições](https://github.com/kushhoficial/kushhoficial/pulls)** — sugestões de melhoria para este perfil são bem-vindas por pull request.
 
