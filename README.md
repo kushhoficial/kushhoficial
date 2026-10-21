@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="#em-construcao">Em construção</a> &nbsp; / &nbsp;
+  <a href="#em-construcao">Projeto em destaque</a> &nbsp; / &nbsp;
   <a href="#como-eu-construo">Como eu construo</a> &nbsp; / &nbsp;
   <a href="https://github.com/kushhoficial?tab=repositories">Repositórios</a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/bruno-nascimento-0a67ba199/">Contato</a>
@@ -32,7 +32,7 @@ Gosto de ferramentas que resolvem uma necessidade concreta: reduzir tarefas repe
 
 <a id="em-construcao"></a>
 
-### 02 / EM CONSTRUÇÃO
+### 02 / PROJETO EM DESTAQUE
 
 <table>
 <tr>
@@ -42,7 +42,7 @@ Gosto de ferramentas que resolvem uma necessidade concreta: reduzir tarefas repe
 <p><b>Copie agora. Reencontre depois.</b></p>
 <p>Um histórico local da área de transferência para macOS. Textos, links e imagens ficam ao alcance de <b>Option + V</b>, com busca instantânea e uma interface nativa.</p>
 <p><code>Swift</code> <code>AppKit</code> <code>macOS</code> <code>MIT</code></p>
-<p><b>Estado:</b> versão local funcional; preparando o repositório e a distribuição pública. O código e o instalador ainda não estão publicados neste GitHub.</p>
+<p><b>Estado:</b> publicado em código aberto, sob licença MIT. <a href="https://github.com/kushhoficial/Copilume">Ver código e documentação</a> · <a href="https://github.com/kushhoficial/Copilume/releases/latest">Baixar para macOS</a>.</p>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Prefiro uma primeira versão que funcione e possa ser melhorada com feedback. Bu
 
 I'm **Kush**, the creator behind **@kushhoficial**. I build practical tools and experiments, learn by making, and aim to share projects that others can use and improve.
 
-My current project is **Copilume**, a local clipboard history app for macOS built with Swift and AppKit. It supports text, links and images. A working local version exists; its source and installer are being prepared for public release and are not yet published on this GitHub.
+My current project is **Copilume**, a local clipboard history app for macOS built with Swift and AppKit. It supports text, links and images. The source code and macOS installer are available in the [Copilume repository](https://github.com/kushhoficial/Copilume).
 
 Explore my repositories, connect on [LinkedIn](https://www.linkedin.com/in/bruno-nascimento-0a67ba199/), or suggest an improvement to this profile with a pull request.
 
