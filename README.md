@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="profile-header.svg" alt="kushhoficial — Ideias úteis. Código aberto. Ferramentas, experimentos e open source." width="100%">
+  <img
+    src="banner-kushhoficial.png"
+    alt="kushhoficial | IA, Desenvolvimento, Segurança e Inovação"
+    width="100%"
+  />
 </p>
 
 <p align="center">
